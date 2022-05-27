@@ -1,5 +1,5 @@
 spark-submit \
     --master yarn \
     --deploy-mode cluster \
-    test16.py \
+    test18.py \
     --output $1 
